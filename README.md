@@ -1,4 +1,4 @@
 # food-ninja
-Collects food before they drop to the ground! 
+Web game developed using JavaScript, PHP, SQL, and the Phaser framework.  Also works on mobile (the game detects gyro movements) 
 
-Play the game [here!](http://tapncook.ca/FoodNinja/FoodNinja.html "Food Ninja")
+Play the game [here!](http://perryli.ca/FoodNinja/FoodNinja.html"Food Ninja")
